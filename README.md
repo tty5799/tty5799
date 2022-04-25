@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Seora's&fontSize=50&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=CastleDragon's&fontSize=50&animation=fadeIn&fontAlignY=38)
 
 
 <div align="center">
@@ -9,7 +9,6 @@
   
   <p>Hello, there!<p>
   <p>I'm a FE developer in React, JavaScript.<p>
-  <p>Also I have some experience with BE projects mostly in Java, Spring.<p>
   <p>For sure, My Final goal is FULL-STACK!🌸<p>
   <br>
   
@@ -43,19 +42,15 @@
 <br>
 <p>  
   
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+
 
 </p>
 <br>
 <p>  
   
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -65,6 +60,6 @@
   
   ### 🅶 Stats
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seol827&&show_icons=true&theme=graywhite)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tty5799&&show_icons=true&theme=graywhite)
 
 </div>
