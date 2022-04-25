@@ -1,4 +1,9 @@
-### Hi there 👋
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=kyeongtae&fontAlign=74&fontAlignY=40&color=gradient)
+
+
+
+![아이디's github stats](https://github-readme-stats.vercel.app/api?username=tty5799&show_icons=true)
+
 
 <!--
 **tty5799/tty5799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
