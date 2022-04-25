@@ -4,7 +4,7 @@
 <div align="center">
   <p>
     <a href="https://velog.io/@stella08" target="_blank"><img src="https://img.shields.io/badge/Velog-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a>
-    <a href="mailto:seorachoi08@gmail.com" target="_blank"><img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://i987412563i@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+    <a href="mailto:iop017779@gmail.com" target="_blank"><img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://iop017779@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
   </p>
   
   <p>Hello, there!<p>
