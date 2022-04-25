@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=kyeongtae&fontAlign=74&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=HI&fontAlign=74&fontAlignY=40&color=gradient)
 
 
 
