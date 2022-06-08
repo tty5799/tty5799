@@ -60,6 +60,9 @@
   
   ### 🅶 Stats
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tty5799&&show_icons=true&theme=graywhite)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tty5799&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tty5799&layout=compact&card_width=445&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
